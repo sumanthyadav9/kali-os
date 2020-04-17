@@ -1,0 +1,2 @@
+# kali-os
+project
